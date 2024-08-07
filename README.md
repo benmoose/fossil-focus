@@ -1,5 +1,9 @@
 # Fossil Focus
 
+#### Deployments
+
+![GitHub deployments](https://img.shields.io/github/deployments/benmoose/fossil-focus/production?style=flat-square&label=production%20deploy)
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
